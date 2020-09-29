@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C0D904</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorOverlay">#78474747</color>
+    <color name="extraInfoText">#232323</color>
+
+    <color name="primaryLight">#C0D904</color>
+    <color name="primaryMiddle">#94A604</color>
+    <color name="primaryDark">#2C4001</color>
+
+    <color name="warmLight">#F2BE5B</color>
+    <color name="warmDark">#BB3A03</color>
+
+
+    <color name="fiveGray">#4F4F4F</color>
+    <color name="fourGray">#828282</color>
+    <color name="threeGray">#BDBDBD</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#202020</color>
+
+    <color name="currentUserMessageBackground">#EBF2BD</color>
+    <color name="otherUserMessageBackground">#E0E0E0</color>
+
+    <color name="blurTransparent">#A64F4F4F</color>
+    <color name="whiteTransparent">#D8FFFFFF</color>
+
+    <color name="colorPrimaryGreen">#818D00</color>
+
+    <!-- ChannelList Activity-->
+    <color name="channellist_activity_name_text">#202020</color>
+    <color name="channellist_activity_message_text">#4F4F4F</color>
+    <color name="channellist_activity_unread_messages_icon">#C0D904</color>
+    <color name="channellist_activity_time">#94A604</color>
+
+
+    <!-- Invitation Activity-->
+    <color name="activity_title_text">#94A604</color>
+    <color name="activity_grey_text">#828282</color>
+    <color name="activity_black_text">#202020</color>
+    <color name="activity_textview_background">#F5F5F5</color>
+    <color name="activity_elements">#C0D904</color>
+    <color name="activity_elements_unchecked">#BDBDBD</color>
+    <color name="invitation_line">#E0E0E0</color>
+    <color name="walk_access_background">#FEFFF0</color>
+
+
+</resources>
